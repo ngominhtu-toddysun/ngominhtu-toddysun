@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @ngominhtu
-- 👀 I’m interested in HTML/CSS/JS
+- Python
+- java
+- c/c++
+- Figma
+- UX/UI
+- Designer
 
 
